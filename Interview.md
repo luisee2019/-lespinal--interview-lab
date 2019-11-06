@@ -4,8 +4,7 @@ For each question, please add your response to any other responses already recor
 
 Q1: Is this a question?
 * _YourName_: blah blah blah
-Q2: What is the answer?
-* _YourName_: blah blah blah
+
 
 ## Interview
 Hello!  Please answer the questions below in a few sentences at the least.
